@@ -1,0 +1,855 @@
+[12:02:13] Using gulpfile ~/daqri-bitbucket-info/gulpfile.js
+[12:02:13] Starting 'rank-by-commit'...
+ralp99:29226455
+gerchanovsky <alex.gerchanovsky@1066labs.com>:23214294
+dcarlson_daqri:15090114
+Luis_Mendez:13633500
+pperez24:10561538
+Julien Cristau <jcristau@debian.org>:9358637
+seelhoff:6620481
+ifischerdaqri:6250259
+aharo:5663472
+AndyTai:5520828
+XuanWang:4882173
+GavinFowler:4422709
+lawrenceg:3930616
+zack_zhu:3672831
+BrendanDrewDaqri:2999755
+JohnGluszak:2934496
+FranklinWuDAQRI:2743378
+asadaslam:2705896
+raychen705007:2682509
+nalinpradeep:2637874
+robertosfield:2544455
+wesleyjohnston:2382272
+justin_sante:2319597
+jeromeetienne:2267398
+janbajana:2190830
+jhanedaq:2106834
+atul_kumar_daqri:2056779
+Brice Goglin <bgoglin@debian.org>:2054485
+nictera:1988395
+David Nusinow <dnusinow@debian.org>:1978397
+chrisfdaqri:1963853
+tejoatdaqri:1916518
+jenniferhsong:1905436
+Cyril Brulebois <kibi@debian.org>:1872921
+alberto_malagoli:1771066
+Gaspard Guillaume <gaspard.guillaume@daqri.com>:1750706
+gerchanovsky:1584825
+AndreaDeCarolis:1559250
+mfrenchv01:1547158
+Timo Aaltonen <tjaalton@debian.org>:1462744
+Nick Barone <nick.barone@gmail.com>:1366733
+naveenanand:1356614
+Sam Muscroft <sammuscroft@Sams-MacBook-Pro.local>:1347069
+AzothAmmo:1305465
+Justin Sante <justinsante@Justins-MacBook-Pro.local>:1302192
+lakhia:1275654
+jan_bajana:1222715
+Marcelo E. Magallon <mmagallo@debian.org>:1220395
+Eddie_Fang:1208034
+robertcastleDAQRI:1184888
+the_mcgee:1163666
+alexfeinman:1159350
+BenjaminSergent:1103448
+billalley:1093223
+Byungsoo:1071517
+praveen_gandala:1037623
+FloatJak:1021180
+xinyum:899548
+maniket:864673
+FabianStrunden:857786
+erin_daqri:841127
+joshdaqri:751221
+jnguyen75:744149
+JohnGluszak <john.gluszak@gmail.com>:739380
+ericlundquist:718479
+jaynag:682636
+KamilJastrzab:674627
+Ian Fischer <Ian Fischer>:664943
+gkhachaturyan:663561
+Jerome Etienne <Jerome Etienne>:656895
+chuxx134:655979
+aaronrodriguez:648998
+WenyiZ:645693
+Brendan Drew <brendandrew@BrendanDrew-MBP-0370.local>:636122
+raulpor:582934
+vincent-c:580575
+Sebastian Dröge <slomo@debian.org>:569676
+siyuanwang:558784
+varunnasery:543866
+jim_demarchi:541505
+atai_org:531442
+michaelpog:523046
+cbroaddus:516925
+zhenyakazlou:483538
+dominikschnitzer:461872
+jetienneDaqri:449299
+rong_shen:445363
+Kaan Tekinceer <kaan.tekinceer@daqri.com>:443978
+sebastinas:425414
+Emilio Pozuelo Monfort <pochu@debian.org>:404374
+willgrathwohl:397114
+4thAce:395395
+connorpoole:389209
+BloodAxe:375947
+Maarten Lankhorst <maarten.lankhorst@ubuntu.com>:373569
+James A. Treacy <treacy@debian.org>:371596
+Chris Wilson <chris@chris-wilson.co.uk>:371209
+ankhwatcher:366579
+savoca:366011
+Melissa Joseph <melissajoseph@Katy-Shi-MBP-MV0085.local>:352169
+AlSandr:349674
+sterlingcrispin:348240
+user <=>:311769
+nbarone:310531
+dmmartins:296570
+darrenx:289819
+will-hancock:277160
+evangelidisG:272199
+snaheth:258917
+Risky_Daqri:257111
+lucasrangit:256079
+njayathu:253476
+Steinar H. Gunderson <sesse@debian.org>:250141
+ErickMendezMendez:239200
+jeremyseeba_daqri:227629
+mundhenk:224955
+Bitbuck_lvr:224720
+mpkoz:224642
+skeegan_daqri:222742
+Byungsoo Kim <hamalove@gmail.com>:222085
+Wes Johnston <we.j@live.com>:215299
+lawrencegunn:213769
+sparkapps:200793
+robquigley:198157
+Don BURNS <don@andesengineering.com>:191311
+dchichkov:188722
+pure engineering <info@pureengineeering.com>:184968
+maximilian attems <maks@debian.org>:183544
+jerome etienne <jerome@jmemac.local>:182516
+Mike Gorchak <mike.gorchak.qnx@gmail.com>:180672
+Kiyoung-Kim:178109
+brett_anderson:170757
+ab_dev:163268
+Clemens-Birklbauer-DAQRI:162435
+aenayati:144978
+Robert Osfield <robert.osfielgmail.com>:142640
+Reinhard Tartler <siretart@tauware.de>:141382
+Erick Mendez <erick.mendez@gmail.com>:140309
+Josh Triplett <josh@freedesktop.org>:139199
+DustenSobotta:134471
+srujansriram:130181
+ralphcroly:129800
+Matteo F. Vescovi <mfv.debian@gmail.com>:128727
+Eric Anholt <eric@anholt.net>:116647
+Michael Biebl <biebl@debian.org>:113843
+Dave Beckett <dajobe@debian.org>:111447
+Dave 'Smitty' Schmitz <smitty@SchmitzwarePro.local>:100408
+noahgibbs:99430
+alex-falcoeiras:98431
+stevecfloat:98413
+asuri_daqri:98007
+schmitzware:94973
+Andres Mejia <mcitadel@gmail.com>:94964
+jackbadavis:92413
+lawrence.gunn@daqri.com <P3r.rhinal>:89188
+rubytwo:87722
+Iain Lane <laney@debian.org>:87278
+Chris Fairclough <chrisfairclough@Jans-Pro.local>:82932
+andrewkrage:82274
+luc_at_daqri:81608
+Zou Nan hai <nanhai.zou@intel.com>:80999
+Paul MARTZ <pmartz@skew-matrix.com>:80543
+Ali Lakhia <lakhia@users.noreply.github.com>:78765
+apeseekingknowledge:76979
+gaspard_guillaume:76843
+Erick Mendez Mendez <mendez@MacBook-Pro-2.local>:76542
+Wang Zhenyu <zhenyu.z.wang@intel.com>:74948
+Jamey Sharp <sharpone@debian.org>:70703
+Julien Danjou <acid@debian.org>:70579
+Karl Sackett <krs@debian.org>:70403
+kaizhoudaqri:68818
+schkolne:67144
+Jayashree Nagarajan <jayashree.nagarajan@gmail.com>:67034
+Thierry Reding <thierry@gilfi.de>:64349
+Vincent Danjean <vdanjean@debian.org>:61852
+BingxiongLin:59997
+katyshi:59600
+antwangaggi_daqri:58678
+max-chernyavskyi:57778
+Michael Stapelberg <stapelberg@debian.org>:56711
+ksiva22:53340
+stevenlovegrove:51103
+BenjiEvans:49557
+Zhenyu Wang <zhenyu.z.wang@intel.com>:48735
+stevenschkolne:47950
+Jeremy MOLES <jeremy@emperorlinux.com>:45843
+Andrea de Carolis <andrewdc09@gmail.com>:45841
+tonymakkiel:45633
+Andrea De Carolis <andreadecarolis@bitbucket.org>:45262
+bernhard_jung:43674
+Andreas Beckmann <anbe@debian.org>:42672
+Mikhail Solovykh <mikhailsolovykh@Mikhail-Solovykh-MBP-MV0113.local>:42023
+ashskutches_daqri:41607
+AustinEliazar:41095
+jessea:40271
+sniplex:39369
+Stephan Maximilian HUBER <ratzfatz@digitalmind.de>:39188
+Grisha <Grisha>:38703
+rcastle:38552
+Ray Chen <ray.chen_c@daqri.com>:36710
+martymacgyver:35997
+muzafferkal:35287
+Gabe Sibley <gsibley@gwu.edu>:34058
+Tormod Volden <debian.tormod@gmail.com>:33774
+Antwan Gaggi <antwangaggi@Antwan-Gaggi-MBP-0980.local>:32107
+Eddie Fang <eddiefang@EddieFang-MBP-0245.local>:31237
+Raul Portales <portales@Rauls-MacBook-Pro.local>:29576
+root <root@hdmi.sh.intel.com>:29316
+Xiang, Haihao <haihao.xiang@intel.com>:27521
+Eric Anholt <anholt@FreeBSD.org>:27199
+nadro:27152
+Keith Packard <keithp@neko.keithp.com>:26999
+Nian Wu <nian.wu@intel.com>:26959
+richardbaileydaqri:26788
+naveenanand87:26258
+msararu:26216
+Paul Cercueil <paul.cercueil@analog.com>:25383
+leethomason <leethomason@users.soureforge.net>:24997
+jsante <jsante@jsantes-MacBook-Pro.local>:22754
+Kaleb Keithley <kaleb@freedesktop.org>:22505
+Kimberly Siva <ksiva@qualcomm.com>:20757
+Martin Rubli <martin_rubli@logitech.com>:20226
+Brennan Cheung <brennan.cheung@dari.com>:19818
+jennifersong <jehsong@gmail.com>:19732
+strasdat:19402
+Jenkins User <jenkins@test2-jenkins.4dlib.com>:18861
+Pure Engineering <info@pureengineering.com>:18275
+lucas_kazansky:17835
+Aurelien Jarno <aurel32@debian.org>:17832
+U-forest\stevep <stevep@forest.(none)>:16936
+Keith Packard <keithp@keithp.com>:16608
+Shane Grant <wgrant@usc.edu>:16240
+Varun Nasery <varunnasery@Varun-Nasery-MBP-MV0114-2.local>:15802
+Bernhard Jung <bernhard@jung.name>:15464
+miguelmar:15221
+lucasbeyer:14868
+Alan Hourihane <alanh@fairlite.demon.co.uk>:14738
+stephenkeegan:13638
+sylvestre:13585
+Balint Reczey <balint@balintreczey.hu>:13311
+jenkins user <jenkins@ip-10-8-2-94.us-west-2.compute.internal>:13202
+cedricpinson:13102
+Joseph Colicchio <jcolicchio@novacoast.com>:12942
+justinboisvert:12877
+Matteo F. Vescovi <mfvescovi@gmail.com>:12837
+unknown <stevec@SweetLemonade.floathybrid.com>:12792
+Juan Falquez <jfalquez@gwu.edu>:12203
+crheckman:12087
+Nick Kralevich <nnk@google.com>:11964
+Jesse Barnes <jbarnes@virtuousgeek.org>:11804
+vishnu-daqri:11386
+Denis Barbier <barbier@debian.org>:10771
+shannonyang:10544
+Dmitry Chichkov <dchichkov@gmail.com>:10530
+Michael Gilbert <mgilbert@debian.org>:10046
+stephensmalley:9866
+Andrea De Carolis <andreadecarolis@github.org>:9852
+daqri-jenkins:9669
+Arnaud Fontaine <arnau@debian.org>:8990
+creidakqa:8977
+ewing:8528
+jenkins user <jenkins@ip-10-8-0-42.us-west-2.compute.internal>:8355
+Andrea De Carolis <andrea.decarolis@gmail.com>:8338
+Jesse Barnes <jbarnes@hobbes.virtuousgeek.org>:8008
+wallyyoungdaqri:7971
+donjohnson <auderive@gmail.com>:7439
+msolovykh:7435
+Drew Parsons <dparsons@debian.org>:7380
+donjohnson:7146
+chachi_:6667
+stevenpunte:6241
+aridaqri:6196
+Sean McCabe <sean@ulation.com>:5987
+randvoorhies:5523
+strezh:5426
+gdelrosario92:5323
+mattelwin:5100
+caedman:5058
+jfalquez:4889
+MatthiasKalkgruber:4701
+Michael PLATINGS <mplatings@pixelpower.com>:4654
+Berin Martini <berin.martini@gmail.com>:4579
+cworth:4460
+Paulo Assis <pj.assis@gmail.com>:4449
+Benjamin Sergent <benjamin.sergent@darqi.com>:4438
+evanfrancisrogers:4394
+Andy Tai <atai@atai.vbox.ubuntu>:4197
+daqri_automation:4172
+Michel Dänzer <michel@tungstengraphics.com>:4143
+Keith Packard <keithp@guitar.keithp.com>:4049
+Geremy Condra <gcondra@google.com>:3919
+SeanLeftBelow <sean.mccabe@daqri.com>:3755
+Lars-Peter Clausen <lars@metafoo.de>:3703
+Keith Packard <keithp@dulcimer.keithp.com>:3675
+yowhann:3648
+Keith Packard <keithp@gamba.jf.intel.com>:3523
+jenkins user <jenkins@ip-10-8-0-79.us-west-2.compute.internal>:3509
+shawnq8861:3466
+Andreas Cadhalpun <Andreas.Cadhalpun@googlemail.com>:3377
+Jenkins User <jenkins@jpb-jenkins-testing2.4dlib.com>:3377
+Zhenyu Wang <zhenyuw@linux.intel.com>:3332
+smuscroft:3267
+clarkcutlerc5:3225
+Becky_s:3209
+Jenkins User <jenkins@beta4ds-jenkins.4dlib.com>:3145
+rhertzog:3044
+Jean-Baptiste Queru <jbq@google.com>:2966
+jenkins user <jenkins@ip-10-8-2-48.us-west-2.compute.internal>:2960
+jenkins user <jenkins@ip-10-8-0-9.us-west-2.compute.internal>:2949
+Daniel Vetter <daniel.vetter@ffwll.ch>:2856
+Jenkins User <jenkins@sunnyvale-jenkins.4dlib.com>:2757
+alicechu:2718
+Moritz Mühlenhoff <jmm@debian.org>:2679
+Nima Keivan <nimski@gwu.edu>:2571
+Kristian Høgsberg <krh@redhat.com>:2488
+Julien Cristau <julien.cristau@ens-lyon.org>:2279
+Thomas Ballard <Thomas.Ballard@akqa.com>:2134
+Keith Packard <keithp@mandolin.keithp.com>:2060
+Connor Poole <connor.d.poole.-nd@disney.com>:2037
+Tyler Hall <tylerwhall@gmail.com>:2030
+kevinthesmith:2029
+Clark Cutler and Laura Ku <dev+clark+laura@carbonfive.com>:1991
+Ross Del Duca <delducra@daqri.com>:1989
+Your Name <nick.barone@gmail.com>:1951
+jack caron <jacquelin.caron@gmail.com>:1929
+laurac5:1927
+Jesse Barnes <jbarnes@nietzche.virtuousgeek.org>:1790
+Thorsten Glaser <tg@mirbsd.de>:1759
+billcroberts:1731
+Timo Aaltonen <tjaalton@ubuntu.com>:1718
+mcguire-steve:1685
+bryanlarsen:1682
+Nian Wu <nian@tinderbox.sh.intel.com>:1640
+Sean OMeara <someara@opscode.com>:1582
+jenkins <jenkins@ops-jenkins.4dlib.com>:1366
+martonmiklosqdev:1353
+a_pham:1325
+Dave Airlie <airlied@redhat.com>:1324
+Keith Packard <keithp@bouzouki.jf.intel.com>:1308
+Nian Wu <nian@graphics.(none)>:1305
+NicholasBrandt:1264
+Andres Mejia <amejia@debian.org>:1253
+cmatsuoka:1195
+Keith his master's voice Packard <keithp@bw.jf.intel.com>:1195
+Kenneth Graunke <kenneth@whitecape.org>:1174
+Zhigang Gong <zhigang.gong@linux.intel.com>:1172
+Andreas Henriksson <andreas@fatal.se>:1164
+Ed Heyl <edheyl@google.com>:1143
+Justin Boisvert <justinboisvert@JustinBoisvert-MBP-MV0079.local>:1142
+Dave Schmitz <smitty@SchmitzwarePro.local>:1129
+Builds Automation <builds@daqri.com>:1114
+Michael Pogrebinsky <michael@pogrebinsky.com>:1071
+rpcraig:1066
+jenkins-4dstudio:1018
+Jesse Barnes <jesse.barnes@intel.com>:963
+Alberto Malagoli <raul.portales@gmail..com>:947
+Eric Anholt <anholt@leguin.anholt.net>:947
+tvphan:923
+dsh-jenkins:887
+Jesse Barnes <jbarnes@jbarnes-t61.(none)>:846
+root <root@xhh-bl32.(none)>:712
+Li Shao Hua <shaohua.li@intel.com>:709
+Keith Packard <keithp@koto.keithp.com>:694
+Byungsoo Kim <byungsookim@Byungsookim-DevPC-MBP-0425.local>:654
+Tim Smith <tsmith84@gmail.com>:649
+Alan Hourihane <alanh@tungstengraphics.com>:648
+jeffswartz:637
+robertbellchambers:628
+v_gasan_daqri:628
+Russ Allbery <rra@debian.org>:619
+Ma Ling <ling.ma@intel.com>:614
+jackcaron <jacquelin.caron@gmail.com>:585
+Zou Nan hai <zhenyu.z.wang@intel.com>:580
+Awesome Robot <itti@idrc1.usc.edu>:559
+Eric Anholt <anholt@freebsd.org>:531
+Steve Langasek <vorlon@debian.org>:517
+Algomorph:513
+Lawrence Gunn <lawrence.gunn@hightail.com>:508
+Jesse Barnes <jbarnes@jbarnes-mobile.amr.corp.intel.com>:507
+Egbert Eich <eich@suse.de>:498
+rajnat2000:479
+eightfold <eightfold@eightfolds-Mac-Pro.local>:478
+Riley Spahn <rileyspahn@google.com>:476
+Marty J Sullivan <marty.sullivan@cornell.edu>:471
+Hans de Goede <hdegoede@redhat.com>:454
+Wu Fengguang <fengguang.wu@intel.com>:453
+luca_boccassi:450
+tresysmobile:448
+Keith Packard <keithp@mactel.(none)>:445
+Zhao Yakui <yakui.zhao@intel.com>:422
+Xiang Hai hao <haihao.xiang@intel.com>:417
+nimski:412
+Dave Mueller <dave.mueller@gmx.ch>:406
+root <root@tzwx.(none)>:405
+Li-Cheng Tai <atai@li-chengs-mini.attlocal.net>:399
+Thomas Hellstrom <thomas-at-tungstengraphics-dot-com>:395
+Hong Liu <hong.liu@intel.com>:390
+Tanmay Patil <tanmaypatil@TanmayPatil-MBP-MV0085.local>:387
+kopal_agrawal:384
+SashkaEgorov:384
+Andreas Beckmann <debian@abeckmann.de>:384
+= <=>:383
+Eric Dorland <eric@debian.org>:374
+Steffen Joeris <white@debian.org>:374
+The Android Open Source Project <initial-contribution@android.com>:374
+Mark Salyzyn <salyzyn@google.com>:356
+jhaneno <jeff@nascentlabs.com>:346
+brbcoding:342
+root <root@tzaspi.(none)>:333
+tanmay-daqri:323
+pqg:319
+jfalquez <jfalquez@gwu.edu>:307
+Renzo De Nardi <renzo@motorola.com>:304
+Alex Klyubin <klyubin@google.com>:302
+Paulo Zanoni <paulo.r.zanoni@intel.com>:293
+pcercueil:291
+Kenny Root <kroot@android.com>:290
+Søren Sandmann Pedersen <sandmann@daimi.au.dk>:285
+Matthias Hopf <mhopf@suse.de>:283
+Keith Packard <keithp@ukulele.keithp.com>:281
+Hauke Strasdat <strasdat@industrial-perception.com>:277
+Dorian Galvez-Lopez <dorian@email.gwu.edu>:275
+Xiang Haihao <haihao.xiang@intel.com>:272
+Adam Jackson <ajax@redhat.com>:271
+Romain Roffé <romain.roffe@parrot.com>:270
+Gaetan Nadon <memsize@videotron.ca>:269
+Dorian <dorian@gwu.edu>:268
+gcondra@google.com <gcondra@google.com>:260
+Dave Airlie <airlied@linux.ie>:258
+yarikoptic:257
+dcashman:257
+Michael Hennerich <michael.hennerich@analog.com>:252
+Eddie Fang <eddiefang@Eddies-MacBook-Pro.local>:252
+Sean OMeara <sean@chef.io>:251
+Moritz Muehlenhoff <jmm@debian.org>:236
+volo-zyko:223
+testMachine <nalin.pradeep@daqri.com>:209
+Unknown <unknown@unknown.com>:205
+Roland Stigge <stigge@antcom.de>:201
+ilya_eriklintsev:198
+mattyclarkson:192
+hfink_daqri:189
+Jesse Barnes <jbarnes@hobbes.lan>:187
+root <root@guitar.keithp.com>:183
+Lukáš Hejtmanek <xhejtman@mail.muni.cz>:182
+HaleyLierman:182
+repo sync <gcondra@google.com>:179
+cimenser:177
+Melissa Joseph <melissajoseph@melissajoseph-MBP-MV0085.local>:177
+richoncode:171
+tpettersen:170
+Shaohua Li <shaohua.li@intel.com>:169
+Tyler Hall <tyhall@lexmark.com>:166
+Laurent Itti <itti@idrc1.usc.edu>:163
+root <root@ops-jenkins.4dlib.com>:163
+Sean McCabe <sean.mccabe@daqri.com>:163
+Tim Smith <tsmith@chef.io>:157
+Alex Daniel and Clark Cutler <dev+alex+clark@carbonfive.com>:155
+JohnSteam <johnsteam@struct.ch>:151
+tz1 <tz1@github.com>:151
+Eratosthenes <n/a>:151
+Jennifer Davis <iennae@gmail.com>:150
+Zdenek Kabelac <zkabelac@redhat.com>:145
+Tamas Kenez <tamas.kenez@adasworks.com>:145
+tcnksm <nsd22843@gmail.com>:145
+Daniel Stone <daniel@fooishbar.org>:144
+Mike Gabriel <sunweaver@debian.org>:143
+Paulo Cesar Pereira de Andrade <pcpa@mandriva.com.br>:142
+gsibley:139
+Randall Donald <rdonald@debian.org>:137
+Sebastian Andrzej Siewior <bigeasy@linutronix.de>:134
+Mike Isely <isely@pobox.com>:134
+Rodrigo Vivi <rodrigo.vivi@gmail.com>:130
+Caedman Oakley <cads@Caedman-Oakley-MBP-MV0091.local>:128
+Andy Tai <atai@localhost.localdomain>:128
+tz <tz@localhost.localdomain>:126
+Kenny Root <kroot@google.com>:125
+Application and Automation <daqri@ip-10-8-15-211.us-west-2.compute.internal>:123
+Andres Salomon <dilinger@debian.org>:122
+Ian Romanick <ian.d.romanick@intel.com>:122
+Dave Airlie <airlied@gmail.com>:120
+alonso <apatron@gwu.edu>:118
+Mario Kleiner <mario.kleiner@tuebingen.mpg.de>:116
+Daniel Schepler <schepler@debian.org>:114
+tz <tz1@github.com>:113
+SV Loaner <svloaner@SVLoaner-MBP-1268.local>:111
+brennancheung:108
+Adam Jackson <ajax@nwnk.net>:105
+Nicholas Pillitteri <nicholas.pillitteri@jhuapl.edu>:102
+dev <raul.portales@gmail..com>:101
+Jeff Sharkey <jsharkey@android.com>:99
+Eugeni Dodonov <eugeni.dodonov@intel.com>:98
+abutcher:96
+Nick Barone <nickbarone@Nicks-MacBook-Pro.local>:92
+ling.ma@intel.com <ling.ma@intel.com>:87
+Josselin Mouette <joss@debian.org>:84
+angry_octet:83
+Laurent Bigonville <bigon@debian.org>:80
+Keith Packard <keithp@work.jf.intel.com>:77
+chadversary:77
+Samuel Thibault <sthibault@debian.org>:76
+Luká\u0161 Hejtmánek <xhejtman@mail.muni.cz>:75
+Gabe Sibley <gabe@zoox.com>:73
+Torne (Richard Coles) <torne@google.com>:72
+Sreeram Ramachandran <sreeram@google.com>:70
+Shannon Yang <shannonyang@DaqriITs-MacBook-Pro-2.local>:69
+hqjiang:68
+brianhays:68
+Robert Osfield <robert@openscenegraph.com>:67
+Garthex:66
+intrigeri <intrigeri@debian.org>:66
+= <itti@idrc1.usc.edu>:66
+Damien Lespiau <damien.lespiau@intel.com>:66
+Kristian Høgsberg <krh@bitplanet.net>:64
+Kevin E Martin <kem@redhat.com>:64
+kuogeehsieh:63
+Colin Cross <ccross@android.com>:62
+Mark Kettenis <kettenis@openbsd.org>:61
+glaubitz:61
+Ying Wang <wangying@google.com>:61
+Cyril Chemparathy <cyril.chemparathy@xilinx.com>:60
+Paul MELIS <paul@science.uva.nl>:60
+Eric G. Wolfe <wolfe21@marshall.edu>:59
+Mike Hommey <glandium@debian.org>:59
+Alan Coopersmith <alan.coopersmith@sun.com>:58
+eric_s_raymond:58
+Gwenole Beauchesne <gwenole.beauchesne@intel.com>:57
+Luk Claes <luk@debian.org>:57
+Christopher Mei <christopher.m.mei@gmail.com>:56
+Alan Coopersmith <Alan.Coopersmith@sun.com>:56
+Sedat Dilek <sedat.dilek@gmail.com>:55
+xinyum <xinyum>:53
+jenkins user <jenkins@sunnyvale-jenkins.4dlib.com>:53
+Peter Hutterer <peter.hutterer@who-t.net>:52
+Erich Keane <erich.keane@verizon.net>:52
+Rong Shen <rongshen@RongShen-MBP-MV0072.local>:52
+labouts:51
+Joshua Brindle <jbrindle@tresys.com>:51
+rcardona:50
+Rodrigo Vivi <rodrigo.vivi@intel.com>:50
+matt_clarkson:49
+Bryce Harrington <bryce@canonical.com>:48
+robertcraig:48
+Jesse Barnes <jbarnes@eee.(none)>:48
+Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>:47
+Dominik Schnitzer <dominikschnitzer@dominik.local>:47
+Olivier Fourdan <ofourdan@redhat.com>:47
+Markus Kern <git@mkern.fastmail.fm>:46
+Sébastien Matte <sebastien.matte83@gmail.com>:45
+Eugenio Culurciello <euge@purdue.edu>:44
+Greg Hackmann <ghackmann@google.com>:44
+Stephen_Sebeny:42
+Matt Turner <mattst88@gmail.com>:42
+modsrm <roberto@pagefault.io>:41
+mkremnyov:40
+Strunden:36
+Wayne Boyer <wayne.boyer@intel.com>:35
+faux123:35
+reuk <reuben.thomas@me.com>:34
+CloCkWeRX:34
+jamesengland-akqa:34
+Lukas Hejtmanek <xhejtman@ics.muni.cz>:34
+Michael Thon <m7thon@users.noreply.github.com>:34
+BoiseBaked:33
+flameeyes:32
+bryce_harrington:31
+Robin Lee <rgl@google.com>:31
+relevantfact:31
+Alexander Reichle-Schmehl <tolimar@debian.org>:29
+gaspard <gaspard.guillaume@daqri.com>:29
+Benjamin Sergent <Benjamin.Sergemt@daqri.com>:29
+Sander van Zoest <sander@vanzoest.com>:29
+a <a>:28
+LaserJesus:27
+Jonathan Gray <jsg@jsg.id.au>:27
+Ben Hutchings <ben@decadent.org.uk>:27
+Dave Airlie <airlied@optimus.(none)>:27
+salelkar-ibm <salelkar@us.ibm.com>:27
+Andres Morales <anmorales@google.com>:27
+Olivier Fourdan <fourdan@xfce.org>:26
+root <root@cr-znh.(none)>:26
+Mark Kettenis <mark.kettenis@xs4all.nl>:26
+Dan Nicholson <dbn.lists@gmail.com>:26
+Christopher Bläsius <christopher.blaesius@krumedia.com>:26
+Samuel Martin <s.martin49@gmail.com>:25
+Emilio Scalise <emisca.ml@gmail.com>:25
+artemshatokhin:24
+Paul Jensen <pauljensen@google.com>:24
+Adam Jackson <ajax@benzedrine.nwnk.net>:24
+gizero:24
+Gaspard Guillaume <gaspard@gaspard-macbook.local>:24
+kannonboy:24
+Simon Que <sque@chromium.org>:24
+Sebastian Andrzej Siewior <sebastian@breakpoint.cc>:24
+Manjukumar Matha <manjukumar.harthikote-matha@xilinx.com>:23
+Eamon Walsh <ewalsh@tycho.nsa.gov>:23
+lclausen-adi <lars-peter.clausen@analog.com>:23
+William Luh <williamluh@google.com>:22
+Konstantin Podsvirov <konstantin@podsvirov.pro>:22
+OpenSceneGraph git repository <openscenegraph.mirror@gmail.com>:22
+adgriff2:22
+Javier Jardón <jjardon@gnome.org>:21
+Barry Scott <barry.scott@onelan.co.uk>:21
+Doug Zongker <dougz@google.com>:21
+Snaheth <thumathysnaheth@gmail.com>:21
+Raul Fernandes <rgfernandes@gmail.com>:20
+Konstantinos Margaritis <markos@genesi-usa.com>:20
+Gary Wong <gtw@gnu.org>:20
+root <root@lucasrpi.(none)>:19
+Maxim Levitsky <maximlevitsky at gmail.com>:19
+Paul Lawrence <paullawrence@google.com>:19
+Lorenzo Colitti <lorenzo@google.com>:19
+Christopher Tate <ctate@android.com>:18
+Bryan THRALL <bryan.thrall@flightsafety.com>:18
+Robert Lowery <rglowery@exemail.com.au>:18
+elmout31 <elmout@rocketmail.com>:18
+Cyril Brulebois <cyril.brulebois@enst-bretagne.fr>:18
+dschleef:17
+Linux Build Service Account <lnxbuild@localhost>:17
+Edward Sheldrake <ejsheldrake@gmail.com>:17
+DanDawson:17
+Stefan Dirsch <sndirsch@suse.de>:17
+Albert Damen <albrt@gmx.net>:16
+Martijn Coenen <maco@google.com>:16
+Riley Andrews <riandrews@google.com>:16
+Krzysztof Halasa <khc@pm.waw.pl>:16
+Bob Paauwe <bob.j.paauwe@intel.com>:16
+Narayan Kamath <narayan@google.com>:16
+Zdenek Kabelac <zdenek.kabelac@gmail.com>:16
+Todd Poynor <toddpoynor@google.com>:16
+Matt Finifter <finifter@google.com>:16
+Neil Williams <codehelp@debian.org>:15
+Bill Nottingham <notting@redhat.com>:15
+dann frazier <dannf@debian.org>:15
+Sharvil Nanavati <sharvil@google.com>:15
+Wu Fengguang <wfg@linux.intel.com>:15
+gurpreet-brach:15
+gregor herrmann <gregoa@debian.org>:15
+Manu Prasad <mpras@codeaurora.org>:14
+Patrick Quinn-Graham <pqg@tokbox.com>:14
+Simon Farnsworth <simon.farnsworth@onelan.co.uk>:14
+Dave Mun <davemun@users.noreply.github.com>:13
+Krishna Ersson <erssonkk@gmail.com>:13
+John Bellone <jbellone@bloomberg.net>:13
+Eric Anholt <anholt@debian-sony.jf.intel.com>:13
+Ian Stakenvicius <axs@gentoo.org>:13
+dNechita <Dan.Nechita@analog.com>:13
+Atul Kumar <atulkumar@atulkumrmbp0980.attlocal.net>:13
+Fabio <fabio.ped@libero.it>:13
+Aaron Plattner <aplattner@nvidia.com>:13
+flavio.coelho <flavio.coelho@ipcorp.com.br>:13
+Ruchi Kandoi <kandoiruchi@google.com>:12
+Wookey <wookey@debian.org>:12
+juliandunn:12
+Ross Del Duca <ross.delduca@daqri.com>:12
+Jesse Barnes <jbarnes@nietzche.localdomain>:12
+Shuang He <shuang.he@intel.com>:12
+heschian:11
+Micah Anderson <micah@debian.org>:11
+Robert Noland <rnoland@2hip.net>:11
+rossburton:11
+212050466 <josh.schneider@ge.com>:11
+Owain G. Ainsworth <oga@openbsd.org>:11
+U. Artie Eoff <ullysses.a.eoff@intel.com>:10
+ustulation <ustulation@gmail.com>:10
+Martin Peres <martin.peres@linux.intel.com>:10
+Andy Thompson <me@andytson.com>:10
+Sam Hocevar <sho@debian.org>:10
+jaejyn.shin <jaejyn.shin@lge.com>:10
+Mika Kuoppala <mika.kuoppala@linux.intel.com>:10
+Ville Syrjälä <ville.syrjala@linux.intel.com>:10
+Markus Kuhn <Markus.Kuhn@cl.cam.ac.uk>:10
+Jon Larimer <jlarimer@google.com>:9
+Christoph Berg <myon@debian.org>:9
+Marty Sullivan <marty-sullivan@users.noreply.github.com>:9
+jsteffens:9
+Matthieu Herrb <matthieu@herrb.eu>:9
+Eddie Fang <eddiefang@EddieFagMBP0245.hsd1.ca.comcast.net>:9
+Marc Titinger <mtitinger@baylibre.com>:9
+jwilk:9
+patrikhuber:8
+Kalev Lember <kalev@smartlink.ee>:8
+Henry unbongo <henryunbongo@yahoo.com>:8
+Hugo Jacques <hugo.jacques@verint.com>:8
+Maximiliano Curia <maxy@debian.org>:8
+Aniket Murarka <aniketmurarka@daqri.com>:8
+Takeshi Aimi <takeshi.aimi@sonymobile.com>:8
+mpalmi:8
+Christopher Ferris <cferris@google.com>:7
+dkgdkg:7
+ankurahlawat:7
+Adam Jackson <ajax@freedesktop.org>:7
+Paul Menzel <paulepanter@users.sourceforge.net>:7
+Steven Chamberlain <steven@pyro.eu.org>:7
+Christopher Webber <cwebber@getchef.com>:7
+Linus Torvals <torvalds@osdl.org>:7
+danielma83:7
+Samuel Thibault <samuel.thibault@ens-lyon.org>:7
+Bastian Kleineidam <calvin@debian.org>:6
+carnil_:6
+cmei <christopher.m.mei@gmail.com>:6
+Aurelien Jarno <aurel32@zee.debian.org>:6
+Rinat <ibragimovrinat@mail.ru>:6
+maximlevitsky:6
+Zou Nanhai <nanhai.zou@intel.com>:6
+Sven Joachim <svenjoac@gmx.de>:6
+Richard Haines <richard_c_haines@btinternet.com>:6
+Tim Harder <timothy.harder@analog.com>:5
+Thomas Arnhold <thomas@arnhold.org>:5
+Elliott Hughes <enh@google.com>:5
+Paulo Cesar Pereira de Andrade <pcpa@mandriva.com>:5
+Andriy Grygorenko <andriy.grygorenko@ogmento.com>:5
+Vineeta Srivastava <vsrivastava@google.com>:5
+Bernhard Rosenkraenzer <bero@arklinux.org>:5
+neomantra:5
+faradazerage <vincentmamo@gmail.com>:5
+Kyle Moffett <Kyle.D.Moffett@boeing.com>:4
+Matthieu Herrb <matthieu@reactor.herrb.com>:4
+Jeremy Trimble <jeremy.trimble@azuresummit.com>:4
+root <root@jetpack.demon.co.uk>:4
+Josh Coughlan <jcoughlan@spredfast.com>:4
+Stijn van Drongelen <tinctorius@gmail.com>:4
+Robert Hooker <sarvatt@ubuntu.com>:4
+Joel Holdsworth <joel.holdsworth@vcatechnology.com>:4
+Kalle Huttunen <kalle.huttunen@ge.com>:4
+Paul Zhang <paulz@codeaurora.org>:4
+Jeremy Huddleston <jeremyhu@apple.com>:4
+Lukasz Kurylo <Lukasz.Kurylo@gmail.com>:4
+savoca <savoca>:4
+Lyude <cpaul@redhat.com>:4
+JP Abgrall <jpa@google.com>:4
+Rob <rglowery@exemail.com.au>:4
+Dan Willemsen <dwillemsen@nvidia.com>:4
+Kyle McMartin <kyle@freedesktop.org>:4
+Owain Ainsworth <zerooa@googlemail.com>:4
+bgoglin:4
+Kirill Müller <kirill.mueller@ivt.baug.ethz.ch>:4
+smmf:3
+Ye Wen <ywen@google.com>:3
+tdudziak:3
+MrDaniel123:3
+Ma, Ling <ling.ma@intel.com>:3
+mauricioklein:3
+Taichi Nakashima <nsd22843@gmail.com>:3
+Chris Bainbridge <chris.bainbridge@gmail.com>:3
+prlw1:3
+Nick Bowler <nbowler@draconx.ca>:3
+Matthew Fornero <mfornero@mathworks.com>:3
+OpenSceneGraph git mirror maintainer <openscenegraph.mirror@gmail.com>:3
+Bill Alley <billalley@users.noreply.github.com>:3
+ngerakines:3
+giumas:3
+vigsterkr:3
+Imre Deak <imre.deak@intel.com>:3
+Colin Walters <walters@verbum.org>:3
+Ben Acland <beOn@users.noreply.github.com>:3
+Peter Alfredsen <loki_val@gentoo.org>:3
+berenm:3
+Eddie Fang <eddiefang@EddieFagMBP0245.fios-router.home>:3
+scrawl2:3
+Roy.Li <rongqing.li@windriver.com>:2
+tobias.jakobi1@uni-bielefeld.de <tobias.jakobi1@uni-bielefeld.de>:2
+Regis Prevot <regis@myrix.net>:2
+Dnechita <Dan.Nechita@analog.com>:2
+besser82:2
+Dave Airlie <airlied@airlied2.(none)>:2
+Daniel Martin <consume.noise@gmail.com>:2
+Timo Aaltonen <tjaalton@cc.hut.fi>:2
+unknown <blaesius@seymour.krumedia.local>:2
+Andreas Stawinoga <a.stawinoga@gmx.de>:2
+ErikAndren:2
+Jeff Sharkey <jsharkey@google.com>:2
+Peng Li <peng.li@intel.com>:2
+Egbert Eich <eich@freedesktop.org>:2
+root <root@localhost.localdomain>:2
+Dave Airlie <airlied@clockmaker.usersys.redhat.com>:2
+Joerg Sonnenberger <joerg@britannica.bec.de>:2
+Shruthi Krishna <skrish@codeaurora.org>:2
+jwcarter:2
+Matthieu Herrb <matthieu@deville.herrb.com>:2
+Mike Lockwood <lockwood@google.com>:2
+factoid:2
+Andrew Lavin <aj.lavin@gmail.com>:2
+Tomas Carnecky <tom@dbservice.com>:2
+Michael Wright <michaelwr@google.com>:2
+Ian Romanick <idr@us.ibm.com>:2
+Helge Bahmann <helge.bahmann@secunet.com>:2
+Jesse Barnes <jbarnes@jbarnes-acer.(none)>:2
+Matt Reyer <winduptoy@users.noreply.github.com>:2
+Pierre Willenbrock <pierre@pirsoft.de>:2
+Li Peng <peng.li@intel.com>:2
+Tobias Doerffel <tobias.doerffel@gmail.com>:2
+jsante <jsante@JustinSante-MBP-SV0301.local>:2
+Christopher Webber <cwebberops@gmail.com>:2
+Alex Light <allight@google.com>:2
+Adel Gadllah <adel.gadllah@gmail.com>:2
+Thierry Reding <thierry.reding@avionic-design.de>:2
+jobermayr:2
+tomhughes:2
+mkaspr:2
+Vincent Mussard <vmussard@free.fr>:1
+Sebastian Hillig <bastih@users.noreply.github.com>:1
+Joshua J. Berry <des@condordes.net>:1
+johnnykv:1
+Kshitij Kulshreshtha <kkhere.geo@gmail.com>:1
+Nanhai Zou <nanhai.zou@intel.com>:1
+Fraser Hutchison <fraser.hutchison@maidsafe.net>:1
+eschnett:1
+Lukáš Hejtmánek <xhejtman@ics.muni.cz>:1
+A Costa <agcosta@gis.net>:1
+arjunpprasad:1
+Robert Lowery <rlowery@exemail.com.au>:1
+Joakim <elupus@ecce.se>:1
+ryaneleonard:1
+liuhong <liuhong@devlinux-hong.sh.intel.com>:1
+arekm:1
+Vinit Deshpande <vinitd@google.com>:1
+Sachin Shah <sachins@codeaurora.org>:1
+Tyler Gunn <tgunn@google.com>:1
+mickael9:1
+Nicholas Pillitteri <njpillitteri@gmail.com>:1
+Michal Mašek <michal.masek@circletech.net>:1
+Robert Ancell <robert.ancell@canonical.com>:1
+Li Peng <peng.li@linux.intel.com>:1
+jmgao:1
+Daniel Vetter <daniel@fliege.ffwll.ch>:1
+aeroevan:1
+joshtriplett:1
+ChALkeR:1
+Jesse Barnes <root@nietzche.virtuousgeek.org>:1
+lipeng <peng.li@linux.intel.com>:1
+RPadillla:1
+Jian Zhao <jian.j.zhao@intel.com>:1
+hulifox008 <hulifox008@163.com>:1
+Ian Romanick <idr@localhost.localdomain>:1
+Janick Martinez Esturo <janick.martinez.esturo@gmail.com>:1
+Ken Sumrall <ksumrall@android.com>:1
+Dmitry Babrovich <dmitry.babrovich@densitrongaming.com>:1
+Shane Grant <shane_000@shane-pc.(none)>:1
+Jesse Barnes <jbarnes@hobbes.(none)>:1
+Brian Carlstrom <bdc@google.com>:0
+Ben Murdoch <benm@google.com>:0
+stevechen <schen1368@gmail.com>:0
+Zhihai Xu <zhihaixu@google.com>:0
+Alan Hourihane <alanh@jetpack.demon.co.uk>:0
+Fernando Carrijo <fcarrijo@yahoo.com.br>:0
+Qiwen Zhao <zhao@google.com>:0
+Matthieu Herrb <matthieu.herrb@laas.fr>:0
+Dave Platt <dplatt@google.com>:0
+The Android Automerger <android-build@google.com>:0
+Bill Yi <byi@google.com>:0
+Roland Test-tools Bär <roland@verifysoft.de>:0
+[12:02:14] Finished 'rank-by-commit' after 121 ms
